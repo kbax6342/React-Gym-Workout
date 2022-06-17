@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Material UI and Tailwind CSS was used to create the styling for the project. 
+The API for the exercise information was pulled in from: https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/
+The API for the Youtube videos was pulled in from: https://rapidapi.com/h0p3rwe/api/youtube-search-and-download/
 
 ## Available Scripts
 
